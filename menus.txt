@@ -3,6 +3,3 @@ dosa
 oil
 ghee
 karam
-
-Dal
-Rice
