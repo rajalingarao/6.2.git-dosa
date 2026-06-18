@@ -5,3 +5,4 @@ ghee
 karam
 
 Dal
+Rice
